@@ -17,7 +17,7 @@
       "port": 5432,
       "dbname": "arth",
       "user": "shiv",
-      "passwd": "yagyavaklya",
+      "passwd": "",
       "is_fast": true
     }
   ]

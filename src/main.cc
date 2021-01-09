@@ -1,6 +1,5 @@
 #include <drogon/drogon.h>
 
-#include "api/v1/login.h"
 #include "api/v1/register.h"
 
 using namespace drogon;
