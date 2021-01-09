@@ -1,0 +1,24 @@
+{
+  "listeners": [
+    {
+      "address": "0.0.0.0",
+      "port": 8000,
+      "https": false
+    }
+  ],
+  "app": {
+    "threads_num": 0,
+    "document_root": "./"
+  },
+  "db_clients": [
+    {
+      "rdbms": "postgresql",
+      "host": "127.0.0.1",
+      "port": 5432,
+      "dbname": "arth",
+      "user": "shiv",
+      "passwd": "yagyavaklya",
+      "is_fast": true
+    }
+  ]
+}
